@@ -34,6 +34,8 @@ cd langchain-falcon-chainlit
 4. Run the following command in your terminal to start the chat UI:
    ```
    chainlit run langchain_falcon.py -w
+   or
+   sudo pip install chainlit==0.2.109
    ```
 
 ## Disclaimer
