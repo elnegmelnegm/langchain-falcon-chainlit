@@ -36,6 +36,8 @@ cd langchain-falcon-chainlit
    chainlit run langchain_falcon.py -w
    or
    sudo pip install chainlit==0.2.109
+   then
+   chainlit run langchain_falcon.py -w
    ```
 
 ## Disclaimer
